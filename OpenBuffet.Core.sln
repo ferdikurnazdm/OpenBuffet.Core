@@ -1,10 +1,61 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "doc", "doc", "{D2383ADC-92E1-4468-A724-0B3D3AAD39B3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{E46A89E7-2568-4279-8510-280BD3011BA0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sample", "sample", "{152D6F4C-548D-482B-8491-347395A940A0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{96CCCF17-8DFB-41D7-9D37-40AA531BFDCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenBuffet.Core.Logger", "src\OpenBuffet.Core.Logger\OpenBuffet.Core.Logger.csproj", "{F3E6438C-50B2-4D82-B856-B071C385D43B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenBuffet.Core.Socket", "src\OpenBuffet.Core.Socket\OpenBuffet.Core.Socket.csproj", "{CC9A297C-E494-458D-9155-FCE647A72A07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenBuffet.Core.Seriport", "src\OpenBuffet.Core.Seriport\OpenBuffet.Core.Seriport.csproj", "{E3436FE9-09F0-4FDD-B5E4-D971E66D66DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenBuffet.Core.Crypto", "src\OpenBuffet.Core.Crypto\OpenBuffet.Core.Crypto.csproj", "{0EA0719A-97CB-48F2-ACCE-2BBF906038BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenBuffet.Core.Test", "test\OpenBuffet.Core.Test\OpenBuffet.Core.Test.csproj", "{B079EF95-8C09-4551-92CB-6EAD0CA6E570}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3E6438C-50B2-4D82-B856-B071C385D43B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3E6438C-50B2-4D82-B856-B071C385D43B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3E6438C-50B2-4D82-B856-B071C385D43B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3E6438C-50B2-4D82-B856-B071C385D43B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC9A297C-E494-458D-9155-FCE647A72A07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC9A297C-E494-458D-9155-FCE647A72A07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC9A297C-E494-458D-9155-FCE647A72A07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC9A297C-E494-458D-9155-FCE647A72A07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3436FE9-09F0-4FDD-B5E4-D971E66D66DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3436FE9-09F0-4FDD-B5E4-D971E66D66DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3436FE9-09F0-4FDD-B5E4-D971E66D66DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3436FE9-09F0-4FDD-B5E4-D971E66D66DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EA0719A-97CB-48F2-ACCE-2BBF906038BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EA0719A-97CB-48F2-ACCE-2BBF906038BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EA0719A-97CB-48F2-ACCE-2BBF906038BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EA0719A-97CB-48F2-ACCE-2BBF906038BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B079EF95-8C09-4551-92CB-6EAD0CA6E570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B079EF95-8C09-4551-92CB-6EAD0CA6E570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B079EF95-8C09-4551-92CB-6EAD0CA6E570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B079EF95-8C09-4551-92CB-6EAD0CA6E570}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F3E6438C-50B2-4D82-B856-B071C385D43B} = {E46A89E7-2568-4279-8510-280BD3011BA0}
+		{CC9A297C-E494-458D-9155-FCE647A72A07} = {E46A89E7-2568-4279-8510-280BD3011BA0}
+		{E3436FE9-09F0-4FDD-B5E4-D971E66D66DA} = {E46A89E7-2568-4279-8510-280BD3011BA0}
+		{0EA0719A-97CB-48F2-ACCE-2BBF906038BB} = {E46A89E7-2568-4279-8510-280BD3011BA0}
+		{B079EF95-8C09-4551-92CB-6EAD0CA6E570} = {96CCCF17-8DFB-41D7-9D37-40AA531BFDCC}
 	EndGlobalSection
 EndGlobal

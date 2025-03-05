@@ -1,0 +1,14 @@
+C:\Users\ferdi\source\repos\OpenBuffet.Core\src\OpenBuffet.Core.Logger\bin\Release\net8.0\OpenBuffet.Core.Logger.deps.json
+C:\Users\ferdi\source\repos\OpenBuffet.Core\src\OpenBuffet.Core.Logger\bin\Release\net8.0\OpenBuffet.Core.Logger.dll
+C:\Users\ferdi\source\repos\OpenBuffet.Core\src\OpenBuffet.Core.Logger\bin\Release\net8.0\OpenBuffet.Core.Logger.pdb
+C:\Users\ferdi\source\repos\OpenBuffet.Core\src\OpenBuffet.Core.Logger\bin\Release\net8.0\OpenBuffet.Core.Logger.xml
+C:\Users\ferdi\source\repos\OpenBuffet.Core\src\OpenBuffet.Core.Logger\obj\Release\net8.0\OpenBuffet.Core.Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferdi\source\repos\OpenBuffet.Core\src\OpenBuffet.Core.Logger\obj\Release\net8.0\OpenBuffet.Core.Logger.AssemblyInfoInputs.cache
+C:\Users\ferdi\source\repos\OpenBuffet.Core\src\OpenBuffet.Core.Logger\obj\Release\net8.0\OpenBuffet.Core.Logger.AssemblyInfo.cs
+C:\Users\ferdi\source\repos\OpenBuffet.Core\src\OpenBuffet.Core.Logger\obj\Release\net8.0\OpenBuffet.Core.Logger.csproj.CoreCompileInputs.cache
+C:\Users\ferdi\source\repos\OpenBuffet.Core\src\OpenBuffet.Core.Logger\obj\Release\net8.0\OpenBuffet.Core.Logger.sourcelink.json
+C:\Users\ferdi\source\repos\OpenBuffet.Core\src\OpenBuffet.Core.Logger\obj\Release\net8.0\OpenBuffet.Core.Logger.dll
+C:\Users\ferdi\source\repos\OpenBuffet.Core\src\OpenBuffet.Core.Logger\obj\Release\net8.0\refint\OpenBuffet.Core.Logger.dll
+C:\Users\ferdi\source\repos\OpenBuffet.Core\src\OpenBuffet.Core.Logger\obj\Release\net8.0\OpenBuffet.Core.Logger.xml
+C:\Users\ferdi\source\repos\OpenBuffet.Core\src\OpenBuffet.Core.Logger\obj\Release\net8.0\OpenBuffet.Core.Logger.pdb
+C:\Users\ferdi\source\repos\OpenBuffet.Core\src\OpenBuffet.Core.Logger\obj\Release\net8.0\ref\OpenBuffet.Core.Logger.dll

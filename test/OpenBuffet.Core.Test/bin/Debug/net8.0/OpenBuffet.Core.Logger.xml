@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OpenBuffet.Core.Logger</name>
+    </assembly>
+    <members>
+        <member name="T:OpenBuffet.Core.Logger.Builders.LoggerBuilder">
+            <summary>
+            this class is responsible for building logger
+            </summary>
+        </member>
+        <member name="T:OpenBuffet.Core.Logger.Interfaces.ILogger">
+            <summary>
+            this interface is responsible for logging messages
+            </summary>
+        </member>
+        <member name="T:OpenBuffet.Core.Logger.Services.ConsoleLogger">
+            <summary>
+            this class is responsible for logging messages to the console
+            </summary>
+        </member>
+        <member name="M:OpenBuffet.Core.Logger.Services.ConsoleLogger.TryCleanAllLogs(System.Exception@)">
+            <summary>
+            this method is responsible for cleaning all logs from the console
+            </summary>
+            <param name="exception">return null if method runned 
+            successfully otherwise return exception</param>
+            <returns>return true if method runned successfully 
+            otherwise return false</returns>
+        </member>
+        <member name="M:OpenBuffet.Core.Logger.Services.ConsoleLogger.TryLogging(System.String,OpenBuffet.Core.Logger.Types.LogType,System.Exception@)">
+            <summary>
+            this method is responsible for logging messages to the console
+            </summary>
+            <param name="message">log message</param>
+            <param name="logType">log type</param>
+            <param name="exception">return null if method runned 
+            successfully otherwise return exception</param>
+            <returns>return true if method runned successfully 
+            otherwise return false</returns>
+        </member>
+        <member name="T:OpenBuffet.Core.Logger.Types.LogType">
+            <summary>
+            Log type as enum
+            </summary>
+        </member>
+        <member name="F:OpenBuffet.Core.Logger.Types.LogType.Success">
+            <summary>
+            success log type
+            </summary>
+        </member>
+        <member name="F:OpenBuffet.Core.Logger.Types.LogType.Error">
+            <summary>
+            error log type
+            </summary>
+        </member>
+        <member name="F:OpenBuffet.Core.Logger.Types.LogType.Info">
+            <summary>
+            info log type
+            </summary>
+        </member>
+        <member name="F:OpenBuffet.Core.Logger.Types.LogType.Warning">
+            <summary>
+            warning log type
+            </summary>
+        </member>
+    </members>
+</doc>

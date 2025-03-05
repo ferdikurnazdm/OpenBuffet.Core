@@ -1,0 +1,12 @@
+C:\Users\ferdi\source\repos\OpenBuffet.Core\src\OpenBuffet.Core.Socket\bin\Debug\net8.0\OpenBuffet.Core.Socket.deps.json
+C:\Users\ferdi\source\repos\OpenBuffet.Core\src\OpenBuffet.Core.Socket\bin\Debug\net8.0\OpenBuffet.Core.Socket.dll
+C:\Users\ferdi\source\repos\OpenBuffet.Core\src\OpenBuffet.Core.Socket\bin\Debug\net8.0\OpenBuffet.Core.Socket.pdb
+C:\Users\ferdi\source\repos\OpenBuffet.Core\src\OpenBuffet.Core.Socket\obj\Debug\net8.0\OpenBuffet.Core.Socket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferdi\source\repos\OpenBuffet.Core\src\OpenBuffet.Core.Socket\obj\Debug\net8.0\OpenBuffet.Core.Socket.AssemblyInfoInputs.cache
+C:\Users\ferdi\source\repos\OpenBuffet.Core\src\OpenBuffet.Core.Socket\obj\Debug\net8.0\OpenBuffet.Core.Socket.AssemblyInfo.cs
+C:\Users\ferdi\source\repos\OpenBuffet.Core\src\OpenBuffet.Core.Socket\obj\Debug\net8.0\OpenBuffet.Core.Socket.csproj.CoreCompileInputs.cache
+C:\Users\ferdi\source\repos\OpenBuffet.Core\src\OpenBuffet.Core.Socket\obj\Debug\net8.0\OpenBuffet.Core.Socket.sourcelink.json
+C:\Users\ferdi\source\repos\OpenBuffet.Core\src\OpenBuffet.Core.Socket\obj\Debug\net8.0\OpenBuffet.Core.Socket.dll
+C:\Users\ferdi\source\repos\OpenBuffet.Core\src\OpenBuffet.Core.Socket\obj\Debug\net8.0\refint\OpenBuffet.Core.Socket.dll
+C:\Users\ferdi\source\repos\OpenBuffet.Core\src\OpenBuffet.Core.Socket\obj\Debug\net8.0\OpenBuffet.Core.Socket.pdb
+C:\Users\ferdi\source\repos\OpenBuffet.Core\src\OpenBuffet.Core.Socket\obj\Debug\net8.0\ref\OpenBuffet.Core.Socket.dll

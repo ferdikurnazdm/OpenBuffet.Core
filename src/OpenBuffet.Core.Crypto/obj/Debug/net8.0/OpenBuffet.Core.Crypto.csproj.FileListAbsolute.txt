@@ -1,0 +1,12 @@
+C:\Users\ferdi\source\repos\OpenBuffet.Core\src\OpenBuffet.Core.Crypto\bin\Debug\net8.0\OpenBuffet.Core.Crypto.deps.json
+C:\Users\ferdi\source\repos\OpenBuffet.Core\src\OpenBuffet.Core.Crypto\bin\Debug\net8.0\OpenBuffet.Core.Crypto.dll
+C:\Users\ferdi\source\repos\OpenBuffet.Core\src\OpenBuffet.Core.Crypto\bin\Debug\net8.0\OpenBuffet.Core.Crypto.pdb
+C:\Users\ferdi\source\repos\OpenBuffet.Core\src\OpenBuffet.Core.Crypto\obj\Debug\net8.0\OpenBuffet.Core.Crypto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferdi\source\repos\OpenBuffet.Core\src\OpenBuffet.Core.Crypto\obj\Debug\net8.0\OpenBuffet.Core.Crypto.AssemblyInfoInputs.cache
+C:\Users\ferdi\source\repos\OpenBuffet.Core\src\OpenBuffet.Core.Crypto\obj\Debug\net8.0\OpenBuffet.Core.Crypto.AssemblyInfo.cs
+C:\Users\ferdi\source\repos\OpenBuffet.Core\src\OpenBuffet.Core.Crypto\obj\Debug\net8.0\OpenBuffet.Core.Crypto.csproj.CoreCompileInputs.cache
+C:\Users\ferdi\source\repos\OpenBuffet.Core\src\OpenBuffet.Core.Crypto\obj\Debug\net8.0\OpenBuffet.Core.Crypto.sourcelink.json
+C:\Users\ferdi\source\repos\OpenBuffet.Core\src\OpenBuffet.Core.Crypto\obj\Debug\net8.0\OpenBuffet.Core.Crypto.dll
+C:\Users\ferdi\source\repos\OpenBuffet.Core\src\OpenBuffet.Core.Crypto\obj\Debug\net8.0\refint\OpenBuffet.Core.Crypto.dll
+C:\Users\ferdi\source\repos\OpenBuffet.Core\src\OpenBuffet.Core.Crypto\obj\Debug\net8.0\OpenBuffet.Core.Crypto.pdb
+C:\Users\ferdi\source\repos\OpenBuffet.Core\src\OpenBuffet.Core.Crypto\obj\Debug\net8.0\ref\OpenBuffet.Core.Crypto.dll

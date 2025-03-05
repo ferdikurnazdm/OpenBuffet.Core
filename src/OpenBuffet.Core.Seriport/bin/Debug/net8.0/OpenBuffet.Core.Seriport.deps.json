@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OpenBuffet.Core.Seriport/1.0.0": {
+        "runtime": {
+          "OpenBuffet.Core.Seriport.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OpenBuffet.Core.Seriport/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
